@@ -10,12 +10,15 @@ View all tasks
 Mark a task as complete
 Delete a task
 Exit the program
+
+
 2. Basic Structure of the Program
 Use a while loop to keep showing the menu until the user decides to exit.
 Use if-elif statements to handle different actions based on user input.
+
+
 3. Data Storage
 You can use a list to store the tasks. Each task could be represented as a dictionary with fields like:
-
 Task description
 Status (whether completed or not)
 
